@@ -21,4 +21,5 @@ MIot:
 ![img](media/MIot.png "MIot")
 
 
-    Python和ADS(TwinCat PLC通讯)通过读取和写入模型属性控制模型旋转、夹取、停止等操作。
+
+**Python脚本和ADS(TwinCat PLC通讯)通过读取和写入模型属性控制模型旋转、夹取、停止等操作。**
